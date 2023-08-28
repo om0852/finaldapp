@@ -32,7 +32,7 @@ const numberSet = async()=>{
     <input type="text"></input>
     {/* <button onClick={putBitFun}>click</button> */}
     <button onClick={numberSet}>number</button>
-    <button onClick={getdata}>get number</button>
+    {/* <button onClick={getdata}>get number</button> */}
 
     </div>
   );
