@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import {Web3} from 'web3';
-// import ethers from 'ethers'
-import React from 'react';
-import Auction from './static/Auction.json';
+// import {Web3} from 'web3';
+// // import ethers from 'ethers'
+// import React from 'react';
+// import Auction from './static/Auction.json';
 import { useState } from 'react';
 // import { Component } from 'react';
 function App (){
@@ -28,7 +28,7 @@ const numberSet = async()=>{
 }
     return (
       <div className="App">
-    <img scr="./static/watch.jpg"/>
+    {/* <img scr="./static/watch.jpg"/> */}
     <input type="text"></input>
     {/* <button onClick={putBitFun}>click</button> */}
     <button onClick={numberSet}>number</button>
