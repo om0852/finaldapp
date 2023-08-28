@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 // import {Web3} from 'web3';
 // // import ethers from 'ethers'
